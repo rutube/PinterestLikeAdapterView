@@ -2,6 +2,8 @@ gen/
 gen/*
 bin/
 bin/*
+build/
+build/*
 target/
 target/*
 .settings
